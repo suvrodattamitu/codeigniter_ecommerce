@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 01 Apr 2019 07:59:47 at http://themesground.com/bigshop/V2/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://themesground.com/bigshop/V2/ -O1 "C:\Users\Suvro Datta\Desktop\bigshop" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:04:35	Error: 	"Not Found" (404) at link themesground.com/bigshop/V2/index.php?page-detail (from themesground.com/bigshop/V2/)
+08:05:13	Error: 	"Not Found" (404) at link themesground.com/bigshop/V2/index.php?page=single-product (from themesground.com/bigshop/V2/)
+08:05:13	Error: 	"Not Found" (404) at link themesground.com/bigshop/V2/contact-us.html (from themesground.com/bigshop/V2/)
+08:05:13	Error: 	"Not Found" (404) at link themesground.com/bigshop/V2/assets/css/grabbing.png (from themesground.com/bigshop/V2/assets/css/owl.carousel.css)
+08:05:13	Error: 	"Not Found" (404) at link themesground.com/bigshop/V2/assets/css/images/star.gif (from themesground.com/bigshop/V2/assets/css/rateit.css)
+08:05:17	Error: 	"Not Found" (404) at link themesground.com/bigshop/V2/switchstylesheet/switchstylesheet.js (from themesground.com/bigshop/V2/contact.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 32 seconds : 137 links scanned, 130 files written (9690211 bytes overall) [8718276 bytes received at 26259 bytes/sec], 1418785 bytes transferred using HTTP compression in 25 files, ratio 21%
+(6 errors, 0 warnings, 0 messages)

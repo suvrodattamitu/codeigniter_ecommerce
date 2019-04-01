@@ -1,0 +1,34 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 01 Apr 2019 07:34:00 at https://hencework.com/theme/philbert/full-width-light/index2.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://hencework.com/theme/philbert/full-width-light/index2.html -O1 "C:\Users\Suvro Datta\Desktop\admin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+07:36:12	Error: 	"Not Found" (404) at link https://hencework.com/theme/philbert/full-width-light/dist/img/range/sprite-skin-modern.png (from https://hencework.com/theme/philbert/full-width-light/dist/css/style.css)
+07:36:12	Error: 	"Not Found" (404) at link https://hencework.com/theme/philbert/full-width-light/dist/img/gallery/mock6.jpg (from https://hencework.com/theme/philbert/full-width-light/dist/css/style.css)
+07:36:12	Error: 	"Not Found" (404) at link https://hencework.com/theme/philbert/full-width-light/dist/img/errorbg.jpg (from https://hencework.com/theme/philbert/full-width-light/dist/css/style.css)
+07:36:12	Error: 	"Not Found" (404) at link https://hencework.com/theme/philbert/full-width-light/dist/img/gallery/equal-size/mock1.jpg (from https://hencework.com/theme/philbert/full-width-light/inbox-detail.html)
+07:36:12	Error: 	"Not Found" (404) at link https://hencework.com/theme/philbert/full-width-light/dist/img/gallery/equal-size/mock2.jpg (from https://hencework.com/theme/philbert/full-width-light/inbox-detail.html)
+07:36:12	Error: 	"Not Found" (404) at link https://hencework.com/theme/philbert/full-width-light/dist/img/gallery/equal-size/mock3.jpg (from https://hencework.com/theme/philbert/full-width-light/inbox-detail.html)
+07:36:12	Error: 	"Not Found" (404) at link https://hencework.com/theme/philbert/full-width-light/dist/img/gallery/mock1.jpg (from https://hencework.com/theme/philbert/full-width-light/file-manager.html)
+07:36:12	Error: 	"Not Found" (404) at link https://hencework.com/theme/philbert/full-width-light/dist/img/gallery/mock2.jpg (from https://hencework.com/theme/philbert/full-width-light/file-manager.html)
+07:36:12	Error: 	"Not Found" (404) at link https://hencework.com/theme/philbert/full-width-light/dist/img/gallery/mock3.jpg (from https://hencework.com/theme/philbert/full-width-light/file-manager.html)
+07:36:12	Error: 	"Not Found" (404) at link https://hencework.com/theme/philbert/full-width-light/dist/img/gallery/equal-size/mock6.jpg (from https://hencework.com/theme/philbert/full-width-light/file-manager.html)
+07:36:12	Error: 	"Not Found" (404) at link https://hencework.com/theme/philbert/full-width-light/dist/img/gallery/equal-size/mock5.jpg (from https://hencework.com/theme/philbert/full-width-light/file-manager.html)
+07:36:12	Error: 	"Not Found" (404) at link https://hencework.com/theme/philbert/full-width-light/dist/img/gallery/equal-size/mock4.jpg (from https://hencework.com/theme/philbert/full-width-light/file-manager.html)
+07:36:13	Error: 	"Not Found" (404) at link https://hencework.com/theme/philbert/img/logo-sm.png (from https://hencework.com/theme/philbert/full-width-light/tabs.html)
+07:36:16	Error: 	"Not Found" (404) at link https://hencework.com/theme/philbert/full-width-light/cropped.html (from https://hencework.com/theme/philbert/full-width-light/cropperjs.html)
+07:36:16	Error: 	"Not Found" (404) at link https://hencework.com/theme/philbert/full-width-light/dist/css/perfect-scrollbar.min.css (from https://hencework.com/theme/philbert/full-width-light/documentation.html)
+07:36:16	Error: 	"Not Found" (404) at link https://hencework.com/theme/philbert/full-width-light/simplelineicons.com (from https://hencework.com/theme/philbert/full-width-light/documentation.html)
+07:36:17	Error: 	"Not Found" (404) at link https://hencework.com/theme/philbert/full-width-light/dist/fonts/lg/lg.eot?n1z373 (from https://hencework.com/theme/philbert/full-width-light/dist/css/lightgallery.css)
+07:36:17	Error: 	"Not Found" (404) at link https://hencework.com/theme/philbert/full-width-light/dist/fonts/lg/lg.eot? (from https://hencework.com/theme/philbert/full-width-light/dist/css/lightgallery.css)
+07:36:17	Error: 	"Not Found" (404) at link https://hencework.com/theme/philbert/full-width-light/dist/fonts/lg.ttf?n1z373 (from https://hencework.com/theme/philbert/full-width-light/dist/css/lightgallery.css)
+07:36:17	Error: 	"Not Found" (404) at link https://hencework.com/theme/philbert/full-width-light/dist/fonts/lg.svg?n1z373 (from https://hencework.com/theme/philbert/full-width-light/dist/css/lightgallery.css)
+07:36:17	Error: 	"Not Found" (404) at link https://hencework.com/theme/philbert/full-width-light/dist/fonts/lg.eot? (from https://hencework.com/theme/philbert/full-width-light/dist/css/lightgallery.css)
+07:36:17	Error: 	"Not Found" (404) at link https://hencework.com/theme/philbert/full-width-light/dist/fonts/lg.woff?n1z373 (from https://hencework.com/theme/philbert/full-width-light/dist/css/lightgallery.css)
+07:36:17	Error: 	"Not Found" (404) at link https://hencework.com/theme/philbert/img/loading.gif (from https://hencework.com/theme/philbert/full-width-light/dist/css/lightgallery.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 17 seconds : 455 links scanned, 431 files written (41319846 bytes overall) [36060850 bytes received at 263217 bytes/sec], 6293548 bytes transferred using HTTP compression in 96 files, ratio 13%, 21.6 requests per connection
+(23 errors, 0 warnings, 0 messages)
